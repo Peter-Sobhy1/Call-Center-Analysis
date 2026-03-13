@@ -10,7 +10,11 @@ A comprehensive end-to-end Power BI project analyzing 100,000 call center record
 
 ### 🏠 Home Page
 A branded welcome screen with a background wallpaper and navigation buttons directing users to each of the four analytical pages.
+
+
 ![Home Page](https://github.com/Peter-Sobhy1/Call-Center-Analysis/blob/main/Assets/Home%20Page.png?raw=true)
+
+
 ### 📊 Overview
 High-level summary combining the most critical KPIs across all domains in one glance:
 - **5** Teams | **71K** Agents | **15%** Transfer Rate | **75%** FCR | **-2.1%** NPS | **38.1%** CSAT | **100K** Total Customers & Calls
@@ -21,15 +25,25 @@ Deep dive into call operations:
 - **100K** Total Calls | **50/50** Inbound vs Outbound | **14s** AHT | **15%** Transfer Rate | **15K** Escalated Calls | **762** Dropped Calls | **75%** FCR
 - Calls by Tier, Calls over Time, Calls by Contact Channel (Phone/App/WhatsApp/Web), Calls by Team, AHT by Team
 
+![Calls](https://github.com/Peter-Sobhy1/Call-Center-Analysis/blob/main/Assets/Calls.png?raw=true)
+
+
 ### 👥 Customers
 Geographic and segmentation analysis:
 - **33.1%** New Customer Acquisition Rate | **38K** Cities | **100K** Total Customers
 - World map of Customers by Location, Top 20 Cities by volume, Customers by Type (New / Returning / VIP), Customer by Account Age Segment (Established / New / Loyal)
 
+
+![Customers](https://github.com/Peter-Sobhy1/Call-Center-Analysis/blob/main/Assets/Customers.png?raw=true)
+
+
 ### ⭐ CSAT
 Customer satisfaction and loyalty metrics:
 - **-2.1%** NPS | **71K** Agents | **38.1%** CSAT | **16** Languages | **5** Teams
 - CSAT % over Time, CSAT by Customer Type, CSAT by Skill Level (Tier), CSAT by Contact Channel, CSAT by Team
+
+
+![CSAT](https://github.com/Peter-Sobhy1/Call-Center-Analysis/blob/main/Assets/CSAT.png?raw=true)
 
 ---
 
