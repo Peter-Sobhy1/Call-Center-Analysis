@@ -10,7 +10,7 @@ A comprehensive end-to-end Power BI project analyzing 100,000 call center record
 
 ### 🏠 Home Page
 A branded welcome screen with a background wallpaper and navigation buttons directing users to each of the four analytical pages.
-
+![Home Page](https://github.com/Peter-Sobhy1/Call-Center-Analysis/blob/main/Assets/Home%20Page.png?raw=true)
 ### 📊 Overview
 High-level summary combining the most critical KPIs across all domains in one glance:
 - **5** Teams | **71K** Agents | **15%** Transfer Rate | **75%** FCR | **-2.1%** NPS | **38.1%** CSAT | **100K** Total Customers & Calls
