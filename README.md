@@ -20,6 +20,9 @@ High-level summary combining the most critical KPIs across all domains in one gl
 - **5** Teams | **71K** Agents | **15%** Transfer Rate | **75%** FCR | **-2.1%** NPS | **38.1%** CSAT | **100K** Total Customers & Calls
 - Calls over Time (monthly trend), Calls by Tier, Customers by Type, CSAT % by Team and Contact Channel
 
+![Overview](https://github.com/Peter-Sobhy1/Call-Center-Analysis/blob/main/Assets/Overview.png?raw=true)
+
+
 ### 📞 Calls
 Deep dive into call operations:
 - **100K** Total Calls | **50/50** Inbound vs Outbound | **14s** AHT | **15%** Transfer Rate | **15K** Escalated Calls | **762** Dropped Calls | **75%** FCR
@@ -61,6 +64,8 @@ Star schema with four tables:
 
 All relationships are **one-to-many**, connecting dimension tables to the fact table.
 
+
+![Data Model](https://github.com/Peter-Sobhy1/Call-Center-Analysis/blob/main/Assets/Data%20Model.png?raw=true)
 ---
 
 ## Power Query Transformations
@@ -98,6 +103,9 @@ All measures are organized in a dedicated `_Measures` table. 20+ measures were c
 | `NO. Agents` / `NO. Teams` / `NO. Languages` / `NO. Cities` | Operational dimension counts |
 | `Dropped calls per [Team]` | Team-level dropped call breakdown (5 measures) |
 
+
+![DAX Measures](https://github.com/Peter-Sobhy1/Call-Center-Analysis/blob/main/Assets/Measures.png?raw=true)
+
 ---
 
 ## Report Features
@@ -115,7 +123,7 @@ All measures are organized in a dedicated `_Measures` table. 20+ measures were c
 | Tool | Usage |
 |---|---|
 | Power BI Desktop | Report development, data modeling, DAX |
-| Power Query (M) | Data transformation and table structuring |
+| Power Query | Data cleaning, data transformation and table structuring |
 | DAX | All KPI calculations and measures |
 | CSV | Source data format |
 | Microsoft Bing Maps | Geographic visualization on Customers page |
