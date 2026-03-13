@@ -5,7 +5,7 @@
 A comprehensive end-to-end Power BI project analyzing 100,000 call center records across 2024. The report covers operational performance, customer behavior, agent efficiency, and satisfaction metrics — structured across five pages with full interactivity, custom navigation, and a clean star schema data model.
 
 ## 🔗 Live Dashboard
-👉 [View Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiMTAxNThjYTAt...)
+👉 [View Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiMTAxNThjYTAtNTA1Ni00MmU4LTg4YWUtOGE5NzQzNDE1NDdiIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
 
 ---
 
